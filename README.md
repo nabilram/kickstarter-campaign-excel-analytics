@@ -17,11 +17,9 @@
    * Use of PIVOT TABLES and CHARTS to drill data, visualize it and present for actionable results.  
 
 ### Output Charts
-* 1.1 _Outcomes by Launch Date Chart_: insight on campaign success/failure based on launch date's month; descend-sorted to show which monthly launch trends.
+1.1 _Outcomes by Launch Date Chart_: insight on campaign success/failure based on launch date's month.
 ![Outcomes_by_Month](https://github.com/nabilram/kickstarter-campaign-excel-analytics/blob/main/resources/Theater_Outcomes_vs_Launch.png)
-
-
-* 1.2 _Outcomes by Goal Charts_: insight on campaign success/failure rate based on goal amount.
+1.2 _Outcomes by Goal Charts_: insight on campaign success/failure rate based on goal amount.
 ![Outcomes_by_Goal_Amount](https://github.com/nabilram/kickstarter-campaign-excel-analytics/blob/main/resources/Outcomes_vs_Goals.png) 
 
 ## Challenges and Solutions
