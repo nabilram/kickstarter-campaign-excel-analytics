@@ -1,4 +1,4 @@
-#kickstarter-campaign-excel-analytics\
+# Kickstarter Campaingn and Excel Analytics
 
 ## Overview of Project
 * Client seeks Kickstarter analytics to better inform their campaign strategy moving forward.
