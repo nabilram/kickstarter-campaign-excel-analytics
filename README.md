@@ -12,17 +12,17 @@
 * See output Excel file with charts for additional insights: [Kickstarter_Output_Analytics](https://github.com/nabilram/kickstarter-campaign-excel-analytics/blob/main/resources/Kickstarter-Excel-Analysis.zip)
 
 ### Methods
-* Data was wrangled with using the above tools and techniquess to create the charts, below.
+* Data was wrangled with using the above tools and techniquess to create the charts, below. These methods include:
    * Use of the COUTNTIFS function for nested, conditional counts of "outcomes" based in given criteria.
    * Use of PIVOT TABLES and CHARTS to drill data, visualize it and present for actionable results.  
 
 ### Output Charts
+* 1.1 _Outcomes by Launch Date Chart_: insight on campaign success/failure based on launch date's month; descend-sorted to show which monthly launch trends.
+![Outcomes_by_Month](https://github.com/nabilram/kickstarter-campaign-excel-analytics/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
-[Outcomes_by_Month](https://github.com/nabilram/kickstarter-campaign-excel-analytics/blob/main/resources/Theater_Outcomes_vs_Launch.png)
-* 1.1 Outcomes by Launch Date Chart: insight on campaign success/failure based on launch date's month.
-* Chart has been pre-sorted, in descending order, to show which months have the most project metrics. 
-[Outcomes_by_Goal_Amount](https://github.com/nabilram/kickstarter-campaign-excel-analytics/blob/main/resources/Outcomes_vs_Goals.png)
-* 1.2 Outcomes by Goal Charts: insight on campaign success/failure rate based on goal amount. 
+
+* 1.2 _Outcomes by Goal Charts_: insight on campaign success/failure rate based on goal amount.
+![Outcomes_by_Goal_Amount](https://github.com/nabilram/kickstarter-campaign-excel-analytics/blob/main/resources/Outcomes_vs_Goals.png) 
 
 ## Challenges and Solutions
 
