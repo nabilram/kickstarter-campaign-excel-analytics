@@ -8,7 +8,7 @@
 ## Analyses: Tools, Methods, Output
 
 ### Tools 
-* This part of the portfolio illustrates advanced Excel skills: pivot tables, excel charts, nested COUNTIFs, VLOOKUP, etc.  
+* This excercise illustrates advanced Excel skills: pivot tables, excel charts, nested COUNTIFs, VLOOKUP, etc.  
 * See output Excel file with charts for additional insights: [Kickstarter_Output_Analytics](https://github.com/nabilram/kickstarter-campaign-excel-analytics/blob/main/resources/Kickstarter-Excel-Analysis.zip)
 
 ### Methods
